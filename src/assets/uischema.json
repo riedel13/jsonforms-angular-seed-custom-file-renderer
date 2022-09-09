@@ -1,0 +1,9 @@
+{
+  "type": "Control",
+  "scope": "#/properties/files",
+  "label": "Files",
+  "description": "Choose File...",
+  "options": {
+    "detail": "GENERATED"
+  }
+}
